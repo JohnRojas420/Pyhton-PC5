@@ -58,3 +58,10 @@ df['Value_for_Money'] = df['Rating'] / df['Price']
 
 # Verificar las nuevas columnas
 print(df.head())
+
+winemag-data-130k-v2.csv
+
+https://github.com/gdelgador/ProgramacionPython202401/blob/main/Modulo5/src/winemag-data-130k-v2.csv
+País según continente:
+
+https://gist.githubusercontent.com/kintero/7d1db891401f56256c79/raw/a61f6d0dda82c3f04d2e6e76c3870552ef6cf0c6/paises.csv
